@@ -23,3 +23,8 @@ Remember about the seperate "launcher.html" file when making your forks.
 Windows Java
 ------
 This is one of the software included in the Windows Java project. Still, you can use it in normal Windows or maybe even Linux with [Wine](https://www.winehq.org "Wine"). Fun fact: This project actually predates the revival of the Windows Java project.
+
+
+<p align="center">
+  <img width="800" height="125" src="https://media.discordapp.net/attachments/829693308972171284/829710872918229062/variation2.png">
+</p>

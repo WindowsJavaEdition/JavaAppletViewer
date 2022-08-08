@@ -18,7 +18,7 @@ Building
 ------
 Load the repository in Visual Studio/Visual Basic and you are good to go. 
 
-Remember about the seperate `launcher.html` file when making your forks.
+The `launcher.html` file is created automatically when clicking the "Launch Applet" button since version dev_02.
 
 Gallery
 ------

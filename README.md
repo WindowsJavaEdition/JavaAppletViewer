@@ -6,7 +6,7 @@ Java Applet Viewer
 ======
 This is a program that allows you to quickly load the old and unsupported by now Java applets. 
 
-It's written in VB.NET with a small bit of HTML.
+It's written in VB.NET with a small bit of HTML. (The bits of Java are just source code for example applets included in the app)
 
 Required software in order to run the program
 ------

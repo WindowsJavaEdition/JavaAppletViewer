@@ -22,7 +22,7 @@ Remember about the seperate `launcher.html` file when making your forks.
 
 Gallery
 ------
-<img align="left" width="420" height="232" src="https://cdn.discordapp.com/attachments/1005446407932616756/1005446940059779206/unknown.png">
+<img align="left" width="420" height="232" src="https://media.discordapp.net/attachments/1005446407932616756/1006177068565921883/unknown.png">
  
 ㅤ
  

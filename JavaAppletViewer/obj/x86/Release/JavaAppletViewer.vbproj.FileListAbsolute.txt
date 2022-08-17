@@ -1,0 +1,12 @@
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\bin\Release\JavaAppletViewer.exe.config
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\bin\Release\JavaAppletViewer.exe
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\bin\Release\JavaAppletViewer.pdb
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\bin\Release\JavaAppletViewer.xml
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\obj\x86\Release\JavaAppletViewer.Form1.resources
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\obj\x86\Release\JavaAppletViewer.Form2.resources
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\obj\x86\Release\JavaAppletViewer.Form3.resources
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\obj\x86\Release\JavaAppletViewer.Resources.resources
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\obj\x86\Release\JavaAppletViewer.vbproj.GenerateResource.Cache
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\obj\x86\Release\JavaAppletViewer.exe
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\obj\x86\Release\JavaAppletViewer.xml
+D:\Projekty\JavaAppletViewer\JavaAppletViewer\obj\x86\Release\JavaAppletViewer.pdb
